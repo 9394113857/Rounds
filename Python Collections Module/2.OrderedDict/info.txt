@@ -1,0 +1,12 @@
+OrderedDict:-
+An OrderedDict is also a sub-class of dictionary but unlike dictionary,
+it remembers the order in which the keys were inserted.
+
+Syntax:
+class collections.OrderDict()
+
+=======================================================================
+
+While deleting and re-inserting the same key will push the key to the last
+to maintain the order of insertion of the key.
+
