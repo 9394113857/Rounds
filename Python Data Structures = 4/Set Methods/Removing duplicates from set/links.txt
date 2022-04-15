@@ -1,0 +1,24 @@
+In this tutorial, you'll learn everything about Python sets;
+how they are created, adding or removing elements from them, and all operations performed on sets in Python.
+https://www.programiz.com/python-programming/set
+
+1.w3schools:-
+https://www.w3schools.com/python/python_sets.asp
+
+2.geeksforgeeks:-
+https://www.geeksforgeeks.org/sets-in-python/
+
+3.javatpoint:-
+https://www.javatpoint.com/python-set
+
+4.tutorialspoint:-
+https://www.tutorialspoint.com/python_data_structure/python_sets.htm
+
+5.https://realpython.com/python-sets/
+
+6.https://www.freecodecamp.org/news/python-set-operations-explained-with-examples/
+
+7.https://www.pythontutorial.net/python-basics/python-set/
+
+
+
