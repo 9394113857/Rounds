@@ -1,7 +1,0 @@
-UserDict:-
-1.UserDict is a dictionary-like container that acts as a wrapper around the dictionary objects.
-2.This container is used when someone wants to create their own dictionary with some modified or new functionality.
-
-Syntax:
-class collections.UserDict([initialdata])
-

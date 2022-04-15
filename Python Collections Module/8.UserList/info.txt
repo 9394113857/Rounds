@@ -1,6 +1,0 @@
-UserList:-
-UserList is a list like container that acts as a wrapper around the list objects.
-This is useful when someone wants to create their own list with some modified or additional functionality.
-
-Syntax:
-class collections.UserList([list])

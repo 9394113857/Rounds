@@ -1,7 +1,0 @@
-UserString:-
-1.UserString is a string like container
-2.And just like UserDict and UserList it acts as a wrapper around string objects.
-3.It is used when someone wants to create their own strings with some modified or additional functionality.
-
-Syntax:
-class collections.UserString(seq)
