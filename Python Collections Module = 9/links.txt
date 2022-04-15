@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/python-collections-module/
+
+Python Collections Module:-
+1.The collection Module in Python provides different types of containers.
+2.A Container is an object that is used to store different objects and provide a way to access the contained objects
+and iterate over them.
+3.Some built-in containers are:-
+ a)Tuple, b)List, c)Dictionary, etc.
+4.In this article, we will discuss the different containers provided by the collections module.
+

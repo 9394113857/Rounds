@@ -1,0 +1,24 @@
+Deque:-
+1.Deque (Doubly Ended Queue) is the optimized list for quicker append and pop operations
+from both sides of the container.
+2.It provides O(1) time complexity for append and pop operations
+as compared to list with O(n) time complexity.
+
+Syntax:
+class collections.deque(list)
+
+This function takes the list as an argument.
+
+========================================================================================
+
+Inserting Elements:-
+Elements in deque can be inserted from both ends.
+1.To insert the elements from right append() method is used.
+2.And to insert the elements from the left appendleft() method is used.
+
+========================================================================================
+
+Removing Elements:-
+1.Elements can also be removed from the deque from both the ends.
+2.To remove elements from right use pop() method.
+3.And to remove elements from the left use popleft() method.
